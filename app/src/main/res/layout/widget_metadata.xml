@@ -1,0 +1,11 @@
+
+
+<appwidget-provider
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:initialLayout="@layout/activity_main"
+    android:minHeight="40dp"
+    android:minWidth="110dp"
+    android:updatePeriodMillis="1800000"
+    android:layout_width="wrap_content">
+</appwidget-provider>
